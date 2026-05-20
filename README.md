@@ -4,7 +4,7 @@ A web app where you enter group expenses and it calculates who owes whom. Great 
 
 {project structure}
 
-'''
+
   expense-splitter/
   │
   ├── app.py               # Flask app & routes
@@ -14,6 +14,6 @@ A web app where you enter group expenses and it calculates who owes whom. Great 
   ├── templates/
   │   └── index.html       # Web UI
   └── README.md
-'''
+
 
 Contributor - @TheVoidJulius, @TheVoidCelestia
