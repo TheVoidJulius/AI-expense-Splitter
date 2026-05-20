@@ -131,5 +131,5 @@ Three friends share expenses:
 
 ## Authors
 
-- Backend — splitter logic, Flask routes, data storage
-- Frontend — HTML template, UI design, integration
+- Backend — splitter logic, Flask routes, data storage - @TheVoidJulius
+- Frontend — HTML template, UI design, integration - @TheVoidCelestia
