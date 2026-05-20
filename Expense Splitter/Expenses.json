@@ -1,1 +1,33 @@
-
+{
+  "members": [
+    "Alex",
+    "Sam",
+    "Jordan"
+  ],
+  "expenses": [
+    {
+      "id": 1716201600001,
+      "desc": "Dinner at Momo's",
+      "amount": 600.0,
+      "payer": "Alex",
+      "split": ["Alex", "Sam", "Jordan"],
+      "category": "Food"
+    },
+    {
+      "id": 1716201600002,
+      "desc": "Cab home",
+      "amount": 300.0,
+      "payer": "Sam",
+      "split": ["Sam", "Jordan"],
+      "category": "Transport"
+    },
+    {
+      "id": 1716201600003,
+      "desc": "Ice cream",
+      "amount": 120.0,
+      "payer": "Jordan",
+      "split": ["Alex", "Jordan"],
+      "category": "Food"
+    }
+  ]
+}
